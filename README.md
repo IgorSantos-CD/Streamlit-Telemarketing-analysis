@@ -37,8 +37,9 @@ comando para rodar se o programa tiver uma informação de ajuda
 
 Nomes dos desenvolvedores do projeto e informação para entrar em contato.
 
-ex. Lucas Serra  
-ex. [@LucasSerra](https://www.linkedin.com/in/lucasserra03/)
+Igor Santos 
+
+[@Igor Fonseca dos Santos](www.linkedin.com/in/igorfonsecasantos)
 
 ## Histórico de versões.
 
